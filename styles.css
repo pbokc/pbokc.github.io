@@ -1,11 +1,13 @@
 body {
     /*font-family: Hersey-Noailles-Future, monospaced;*/
     /*color: #006700;*/
-    margin: 0; 
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 30px; 
 }
 
 h1 {
-    font-size: 32px; 
+    font-size: 32px;
+    color: black;
 }
 
 .spanOne {

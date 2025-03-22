@@ -1,0 +1,3 @@
+[submodule "ad-games"]
+	path = ad-games
+	url = https://github.com/pbokc/ad-games.git

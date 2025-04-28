@@ -1,6 +1,4 @@
 body {
-    /*font-family: Hersey-Noailles-Future, monospaced;*/
-    /*color: #006700;*/
     font-family: Helvetica, Arial, sans-serif;
     margin: 40px;
     padding-left: 5%;
@@ -31,11 +29,6 @@ h1 {
 .sidebar a.active {
     color: darkgreen;
 }
-
-/* 
-.sidebar a:hover {
-    color: lightsalmon;
-} */
 
 a:hover {
     background-color: lightsalmon;

@@ -1,6 +1,7 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     margin: 40px;
+    max-width: 50%;
     padding-left: 5%;
 }
 
